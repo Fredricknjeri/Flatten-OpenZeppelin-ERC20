@@ -7,4 +7,4 @@ A simple and single file that can be verified and extended to create smart contr
 # compiler type: SINGLE FILE / CONCATENANTED METHOD
 
 It can be extended by adding the contract code after the last line.
-Use remix.ethereum.org to the the smart contract
+Use remix.ethereum.org to test the smart contract.
