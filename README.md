@@ -8,3 +8,4 @@ A simple and single file that can be verified and extended to create smart contr
 
 It can be extended by adding the contract code after the last line.
 Use remix.ethereum.org to test the smart contract.
+Made for Deli token 
